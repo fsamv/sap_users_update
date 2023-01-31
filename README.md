@@ -103,4 +103,4 @@ If fields do not need to be changed - they should be removed from the file. Then
 
 ## **Version and Contact Information**
 
-This program is version 3.0 and was created by Semen Fedkin. You can contact him at **[fc13adm@gmail.com](mailto:fc13adm@gmail.com)**.
+This program was created by Semen Fedkin. You can contact him at **[fc13adm@gmail.com](mailto:fc13adm@gmail.com)**.
