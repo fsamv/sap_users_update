@@ -92,7 +92,8 @@ If fields do not need to be changed - they should be removed from the file. Then
 | FUNCTION | Function |
 | CITY | City |
 | TEL1_NUMBR | First telephone no.: dialling code+number |
-| TEL1_EXT | E-Mail Address |
+| TEL1_EXT | First Telephone No.: Extension |
+| E_MAIL | E-Mail Address |
 
 ### SNC
 
