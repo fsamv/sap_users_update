@@ -57,7 +57,8 @@ class SAPSystem:
             "FUNCTION": "",
             "CITY": "",
             "TEL1_NUMBR": "",
-            "TEL1_EXT": ""
+            "TEL1_EXT": "",
+            "E_MAIL": ""
         }
         self.address_x = {
             "FIRSTNAME": "",
@@ -66,7 +67,8 @@ class SAPSystem:
             "FUNCTION": "",
             "CITY": "",
             "TEL1_NUMBR": "",
-            "TEL1_EXT": ""
+            "TEL1_EXT": "",
+            "E_MAIL": ""
         }
         self.snc = {
             "GUIFLAG": "",
