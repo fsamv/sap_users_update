@@ -14,7 +14,7 @@ class Log:
         if log_lvl == "DEBUG":
             date = datetime.now()
             start_id = date.strftime("%Y%m%d-%H%M%S")
-            self.log_file = start_id + '-' + log_lvl + '-' + self.config.get('Logging', 'logfile')
+            self.log_file = start_id + '-' + log_lvl + '.txt'
         else:
             self.log_file = self.config.get('Logging', 'logfile')
         self.log_level = log_lvl
